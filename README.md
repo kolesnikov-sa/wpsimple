@@ -1,0 +1,2 @@
+# wpsimple
+ wpsimple WP theme
